@@ -24,7 +24,7 @@
   
     Use end path point pose pose is used to evaluate
 
-    <img src="https://latex.codecogs.com/gif.latex?v_{opt},\omega_{opt}=min(abs(theta_{pred}-theta_{goal}))" />
+    <img src="https://latex.codecogs.com/gif.latex?v_{opt},\omega_{opt}=min(abs(\theta_{pred}-\theta_{goal}))" />
 
 4. Relative Position to Goal (Near)
 
@@ -37,7 +37,7 @@ Normalize predicted value and search the best set
 
 
 
-<img src="https://latex.codecogs.com/gif.latex?V_{(v,\omega)}=\alpha*Obstacle(v,\omega)+\beta*Velocity(v,\omega)+\gamma*Heading(v,\omega)+\delta*Near(v,\omega)" />
+<img src="https://latex.codecogs.com/gif.latex?V_{(v,\omega)}=\alpha*Obstacle(v,\omega)+\beta*Velocity(v,\omega)+\gamma*Heading(v,\omega)+\delta*Near(v,\omega)"/>
 
 
 
