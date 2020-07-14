@@ -33,7 +33,13 @@
     <img src="https://latex.codecogs.com/gif.latex?v_{opt},\omega_{opt}=min(hypot(x_{pred}-x_{goal},y_{pred}-y_{goal}))" />
 
 ### Optimal Search Caliculation
-  
-    Normalize predicted value and search the best set
+Normalize predicted value and search the best set
 
-    <img src="https://latex.codecogs.com/gif.latex?V_{(v,\omega)}=\alpha*Obstacle(v,\omega)+\beta*Velocity(v,\omega)+\gamma*Heading(v,\omega)+\delta*Near(v,\omega)" />
+
+
+<img src="https://latex.codecogs.com/gif.latex?V_{(v,\omega)}=\alpha*Obstacle(v,\omega)+\beta*Velocity(v,\omega)+\gamma*Heading(v,\omega)+\delta*Near(v,\omega)" />
+
+
+
+### Cpp OpenGL Implementation
+![dwa.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/393008/422f27c1-e007-4ba2-9abd-1c4b7f931efc.gif)
