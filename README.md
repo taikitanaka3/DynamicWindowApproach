@@ -43,3 +43,6 @@ Normalize predicted value and search the best set
 
 ### Cpp OpenGL Implementation
 ![dwa.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/393008/422f27c1-e007-4ba2-9abd-1c4b7f931efc.gif)
+
+### Reference
+https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf
